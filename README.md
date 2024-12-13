@@ -2,4 +2,4 @@
 
 This project was creted in local system.
 
-created by Avinash kumar.
+created by Avinash kumar
